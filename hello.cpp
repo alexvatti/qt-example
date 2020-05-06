@@ -6,5 +6,6 @@ void print()
 	std::cout << "For Build Trigger!" << std::endl;
 	std::cout << "Testing!" << std::endl;
 	std::cout << "Testing!" << std::endl;
+	std::cout << "Updated:Testing!" << std::endl;
 	
 }
