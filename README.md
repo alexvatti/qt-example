@@ -1,2 +1,2 @@
 # qt-example
-test - program used for Jenkins Exploring 
+Test - Program used for Jenkins Exploring 
